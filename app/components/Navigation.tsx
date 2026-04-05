@@ -18,6 +18,25 @@ export default function Navigation() {
 
   return (
     <header className="nav-blur fixed top-0 left-0 right-0 z-50">
+      {/* Disclaimer Banner */}
+      <div
+        style={{
+          background: 'rgba(255, 193, 7, 0.15)',
+          borderBottom: '1px solid rgba(255, 193, 7, 0.3)',
+          textAlign: 'center',
+          padding: '6px 16px',
+          fontSize: '0.875rem',
+          color: 'var(--text-muted, #aaa)',
+        }}
+      >
+        This is an independent fan site.{' '}
+        <a
+          href="/get-tubemagic"
+          style={{ color: 'var(--brand-teal)', fontWeight: 600, textDecoration: 'underline' }}
+        >
+          Visit the official site →
+        </a>
+      </div>
       <nav className="max-w-7xl mx-auto flex items-center justify-between px-6 py-4">
         {/* Logo */}
         <Link href="/" className="flex items-center gap-2 no-underline">
