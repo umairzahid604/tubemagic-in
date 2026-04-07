@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import { Mail, ExternalLink, ArrowRight, MessageSquare } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Contact | TubeMagic.in',
+  title: 'Contact & Support Resources',
   description:
     'Contact the tubemagic.in team, or get direct support from TubeMagic for product questions, billing, and technical help.',
 };

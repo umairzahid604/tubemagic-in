@@ -14,7 +14,7 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: {
-    default: "TubeMagic ,AI-Powered YouTube Automation Software 2026",
+    default: "TubeMagic: The Complete Guide to AI YouTube Automation (2026)",
     template: "%s | TubeMagic",
   },
   description:
@@ -34,13 +34,13 @@ export const metadata: Metadata = {
     locale: "en_US",
     url: "https://tubemagic.in",
     siteName: "TubeMagic",
-    title: "TubeMagic ,AI-Powered YouTube Automation Software 2026",
+    title: "TubeMagic: The Complete Guide to AI YouTube Automation (2026)",
     description:
       "Generate scripts, video ideas, thumbnails, and SEO metadata in 5 minutes with AI. The complete YouTube automation toolkit.",
   },
   twitter: {
     card: "summary_large_image",
-    title: "TubeMagic ,AI-Powered YouTube Automation Software",
+    title: "TubeMagic: The Complete Guide to AI YouTube Automation",
     description:
       "Generate scripts, video ideas, thumbnails, and SEO metadata in 5 minutes with AI.",
   },

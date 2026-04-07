@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Terms of Service | TubeMagic.in',
+  title: 'Terms of Service',
   description: 'Terms of service for tubemagic.in. Understand the rules governing your use of this independent affiliate review website.',
 };
 

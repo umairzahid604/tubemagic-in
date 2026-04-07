@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import { DollarSign, Users, ArrowRight, Repeat, Shield, Check } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'TubeMagic Affiliate Program | 50% Lifetime Recurring Commission',
+  title: 'TubeMagic Affiliate Program Guide: Earn 50% Lifetime Commissions',
   description:
     'Earn 50% lifetime recurring commissions promoting TubeMagic, the AI YouTube automation tool. Join the affiliate program and get paid every month.',
 };

@@ -5,7 +5,7 @@ import { PenLine, Lightbulb, Rocket, Palette, Search, ArrowRight, Zap } from 'lu
 const AFFILIATE_LINK = '/get-tubemagic';
 
 export const metadata: Metadata = {
-  title: 'TubeMagic Features | The Complete Tube AI System',
+  title: 'TubeMagic Features Guide: The Complete AI YouTube Toolkit',
   description:
     'Explore all TubeMagic features: AI Script Writer, Video Idea Generator, Warp Upload, Thumbnail Generator, and Video Research ,the complete YouTube automation toolkit.',
 };

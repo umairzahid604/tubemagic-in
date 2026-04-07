@@ -4,7 +4,7 @@ import { Search, BarChart2, Filter, Eye, TrendingUp, Target, Check, ArrowRight }
 const AFFILIATE_LINK = '/get-tubemagic';
 
 export const metadata: Metadata = {
-  title: 'YouTube Video Research Tool | TubeMagic',
+  title: 'YouTube Video Research Tool: Complete Feature Guide',
   description: 'Deep competitive intelligence for YouTube. Filter videos by views, upload date, and duration to discover what works in any niche.',
 };
 

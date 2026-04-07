@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Privacy Policy | TubeMagic.in',
+  title: 'Privacy Policy',
   description: 'Privacy policy for tubemagic.in. Learn how we handle data, cookies, and affiliate disclosures.',
 };
 

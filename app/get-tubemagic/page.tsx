@@ -4,7 +4,7 @@ import { ArrowRight, Check, Shield, Star, Zap, Brain, Lightbulb, Palette, Upload
 const AFFILIATE_LINK = 'https://tubemagic.com/ds#aff=UmairZahid0001';
 
 export const metadata: Metadata = {
-  title: 'Get TubeMagic ,AI YouTube Automation for $47/Month',
+  title: 'How to Get Started with TubeMagic: AI YouTube Automation Guide',
   description:
     'Start your TubeMagic subscription today. AI Script Writer, Video Idea Generator, Thumbnail Generator, Warp Upload, and Video Research ,all included at $47/month with a 30-day money-back guarantee.',
 };

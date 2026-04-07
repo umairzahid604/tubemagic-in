@@ -4,7 +4,7 @@ import { Play, Check, ArrowRight, DollarSign, Layers, Cpu } from 'lucide-react';
 const AFFILIATE_LINK = '/get-tubemagic';
 
 export const metadata: Metadata = {
-  title: 'How to Start a Faceless YouTube Channel in 2026 | Full Guide',
+  title: 'How to Start a Faceless YouTube Channel in 2026: Step-by-Step Guide',
   description:
     'Complete guide to starting a faceless YouTube channel using AI automation. Niche selection, content strategy, tools, and scaling to 10+ channels.',
 };

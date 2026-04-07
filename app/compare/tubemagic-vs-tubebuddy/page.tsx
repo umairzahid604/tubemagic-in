@@ -4,7 +4,7 @@ import { Check, ArrowRight, Scale } from 'lucide-react';
 const AFFILIATE_LINK = '/get-tubemagic';
 
 export const metadata: Metadata = {
-  title: 'TubeMagic vs TubeBuddy 2026 | AI Automation vs Browser Extension',
+  title: 'TubeMagic vs TubeBuddy: Complete Comparison Guide (2026)',
   description:
     'TubeMagic vs TubeBuddy: full comparison of features, pricing, and use cases. Which tool is better for YouTube growth in 2026?',
 };

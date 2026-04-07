@@ -4,7 +4,7 @@ import { Check, Shield, ArrowRight, Zap, Star } from 'lucide-react';
 const AFFILIATE_LINK = '/get-tubemagic';
 
 export const metadata: Metadata = {
-  title: 'TubeMagic Pricing 2026 | $47/Month All-In-One YouTube AI',
+  title: 'TubeMagic Pricing Guide 2026: Plans, Features & Value Breakdown',
   description:
     'TubeMagic costs $47/month and includes the AI Script Writer, Video Idea Generator, Thumbnail Generator, Warp Upload Optimizer, and Video Research Tool. 30-day money-back guarantee.',
 };

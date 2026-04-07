@@ -5,7 +5,7 @@ import { Scale, Star, Trophy, ArrowRight, TrendingUp } from 'lucide-react';
 const AFFILIATE_LINK = '/get-tubemagic';
 
 export const metadata: Metadata = {
-  title: 'TubeMagic vs Competitors | Compare YouTube AI Tools',
+  title: 'YouTube AI Tools Comparison Guide: TubeMagic vs Top Competitors (2026)',
   description:
     'Compare TubeMagic vs VidIQ, TubeMagic vs TubeBuddy, and read the full 2026 TubeMagic review. See why creators are switching to the AI-first platform.',
 };

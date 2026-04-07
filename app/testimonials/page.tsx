@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import { ArrowRight, Star, Quote } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'TubeMagic Reviews & Testimonials — What Creators Are Saying',
+  title: 'TubeMagic Reviews & Testimonials: Real Creator Success Stories',
   description:
     'Real reviews from YouTubers with millions of subscribers, faceless channel operators, and agency owners. See why creators trust TubeMagic to power their content workflow.',
 };

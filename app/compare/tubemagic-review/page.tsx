@@ -4,7 +4,7 @@ import { Check, X, Star, ArrowRight, Shield } from 'lucide-react';
 const AFFILIATE_LINK = '/get-tubemagic';
 
 export const metadata: Metadata = {
-  title: 'TubeMagic Review 2026 | Is It Worth $47/Month?',
+  title: 'TubeMagic Review 2026: Complete Guide — Is It Worth $47/Month?',
   description:
     'Honest TubeMagic review 2026. Features, pricing, pros, cons, and real user results. Is TubeMagic worth the cost for YouTube creators?',
 };

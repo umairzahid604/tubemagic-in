@@ -4,7 +4,7 @@ import { Target, ArrowRight, TrendingUp, DollarSign } from 'lucide-react';
 const AFFILIATE_LINK = '/get-tubemagic';
 
 export const metadata: Metadata = {
-  title: 'YouTube Niche Positioning Guide 2026 | High-CPM Niches & Strategy',
+  title: 'YouTube Niche Positioning: Ultimate Guide to High-CPM Niches (2026)',
   description:
     'How to find profitable YouTube niches with high CPM rates. Includes niche validation checklist, CPM benchmarks, and positioning frameworks.',
 };

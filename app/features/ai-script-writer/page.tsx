@@ -4,7 +4,7 @@ import { PenLine, Zap, Clock, Brain, Eye, MessageSquare, TrendingUp, Check, Arro
 const AFFILIATE_LINK = '/get-tubemagic';
 
 export const metadata: Metadata = {
-  title: 'AI Script Writer for YouTube | TubeMagic',
+  title: 'AI Script Writer for YouTube: Complete Feature Guide',
   description:
     'Generate retention-optimized YouTube scripts in minutes. TubeMagic AI Script Writer is trained on viral data ,hooks, open loops, CTAs built-in.',
 };

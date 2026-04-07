@@ -4,7 +4,7 @@ import { Palette, MousePointerClick, Layers, Wand2, Image, TrendingUp, Check, Ar
 const AFFILIATE_LINK = '/get-tubemagic';
 
 export const metadata: Metadata = {
-  title: 'AI Thumbnail Generator for YouTube | TubeMagic',
+  title: 'AI Thumbnail Generator for YouTube: Complete Feature Guide',
   description: "Create scroll-stopping YouTube thumbnails with AI. TubeMagic's thumbnail generator is engineered for maximum click-through rate.",
 };
 

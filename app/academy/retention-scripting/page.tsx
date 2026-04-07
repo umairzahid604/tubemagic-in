@@ -4,7 +4,7 @@ import { PenLine, ArrowRight, Zap, Eye, MessageSquare, TrendingUp } from 'lucide
 const AFFILIATE_LINK = '/get-tubemagic';
 
 export const metadata: Metadata = {
-  title: 'YouTube Retention Scripting Guide 2026 | Hooks, Open Loops & CTAs',
+  title: 'YouTube Retention Scripting: Complete Guide to Hooks, Open Loops & CTAs (2026)',
   description:
     'Learn how to write YouTube scripts that hold viewer attention for longer, increase Average View Duration, and trigger algorithm recommendations.',
 };

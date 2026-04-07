@@ -4,7 +4,7 @@ import { BookOpen, ArrowRight, Zap, Target, PenLine, TrendingUp, Play, Users } f
 const AFFILIATE_LINK = '/get-tubemagic';
 
 export const metadata: Metadata = {
-  title: 'YouTube Automation Academy | Free Training for Faceless Channels',
+  title: 'YouTube Automation Academy: Free Guides & Resources for Creators',
   description:
     'Free guides on YouTube automation, faceless channels, niche selection, retention scripting, and AI content strategy. Powered by TubeMagic.',
 };

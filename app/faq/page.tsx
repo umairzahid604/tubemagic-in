@@ -5,7 +5,7 @@ import { ArrowRight, HelpCircle } from 'lucide-react';
 const AFFILIATE_LINK = '/get-tubemagic';
 
 export const metadata: Metadata = {
-  title: 'TubeMagic FAQ 2026 | Common Questions Answered',
+  title: 'TubeMagic FAQ: Complete Resource for Common Questions (2026)',
   description:
     'Everything you need to know about TubeMagic: pricing, features, AI models used, refund policy, and how it compares to VidIQ and TubeBuddy.',
 };

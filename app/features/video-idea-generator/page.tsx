@@ -4,7 +4,7 @@ import { Lightbulb, TrendingUp, Target, Search, BarChart2, Globe, Check, ArrowRi
 const AFFILIATE_LINK = '/get-tubemagic';
 
 export const metadata: Metadata = {
-  title: 'YouTube Video Idea Generator | TubeMagic',
+  title: 'YouTube Video Idea Generator: Complete Feature Guide',
   description:
     'Discover high-potential, trending YouTube video ideas before your competitors. TubeMagic\'s AI idea generator analyzes your niche and surfaces winning outlier topics.',
 };

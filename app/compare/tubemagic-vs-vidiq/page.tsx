@@ -4,7 +4,7 @@ import { Check, X, ArrowRight, Scale } from 'lucide-react';
 const AFFILIATE_LINK = '/get-tubemagic';
 
 export const metadata: Metadata = {
-  title: 'TubeMagic vs VidIQ 2026 | Which YouTube Tool Wins?',
+  title: 'TubeMagic vs VidIQ: In-Depth Comparison Guide (2026)',
   description:
     'TubeMagic vs VidIQ: full feature comparison, pricing breakdown, and honest verdict. See why creators making the switch to AI-first content automation.',
 };

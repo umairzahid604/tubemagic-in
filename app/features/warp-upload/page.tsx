@@ -4,7 +4,7 @@ import { Rocket, Tag, Hash, FileText, Clock, Upload, Check, ArrowRight, Zap } fr
 const AFFILIATE_LINK = '/get-tubemagic';
 
 export const metadata: Metadata = {
-  title: 'Warp Upload Optimizer | TubeMagic',
+  title: 'Warp Upload Optimizer: Complete Feature Guide',
   description: 'Auto-generate SEO-optimized YouTube titles, tags, descriptions, and chapter timestamps. Upload faster with metadata designed to rank.',
 };
 
